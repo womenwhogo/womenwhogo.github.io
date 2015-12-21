@@ -1,8 +1,9 @@
 # Women Who Go
 
-## Links
+## Online
 
 * __Website:__ [womenwhogo.org](http://www.womenwhogo.org/)
+  - Email: hello@womenwhogo.org
 * __Twitter:__ 
   - Primary / San Francisco, USA: [@womenwhogo](https://twitter.com/womenwhogo)
   - Boston, USA: [@WomenWhoGo_Bos](https://twitter.com/WomenWhoGo_Bos)
