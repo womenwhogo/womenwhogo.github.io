@@ -5,7 +5,8 @@
 * __Website:__ [womenwhogo.org](http://www.womenwhogo.org/)
   - Email: hello@womenwhogo.org
 * __Twitter:__ 
-  - Primary / San Francisco, USA: [@womenwhogo](https://twitter.com/womenwhogo)
+  - Primary, USA: [@womenwhogo](https://twitter.com/womenwhogo)
+  - San Francisco, USA: [@womenwhogo_sf](https://twitter.com/womenwhogo_sf)
   - Boston, USA: [@WomenWhoGo_Bos](https://twitter.com/WomenWhoGo_Bos)
   - New York City, USA: [@womenwhogo_nyc](https://twitter.com/womenwhogo_nyc)
   - San Diego County, USA: [@womenwhogo_sd](https://twitter.com/womenwhogo_sd)
